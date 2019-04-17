@@ -1,3 +1,3 @@
 # Projet Pong Sascha SALLES B1A
-# IL FAUT IMPERATIVEMENT PLACER LES SONS WAVE ET LE .PY DANS LE MEME DOSSIER POUR QUE LES SONS FONCTIONNENT.
-# Bonne correction :)
+
+Un pong en Python fait avec tKinter pour pour ma classe d'informatique.

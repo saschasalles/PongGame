@@ -1,3 +1,3 @@
-# Projet Pong
+# Pong Game
 
-Un pong en Python fait avec tKinter pour ma classe d'informatique.
+First year project of BSc, creation of a Python Pong.
